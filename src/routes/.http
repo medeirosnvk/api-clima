@@ -1,0 +1,4 @@
+
+## UTILIZE O PLUGIN REST CLIENT E SEM SEGUIDA CLIQUE EM SEND PARA TESTAR A API
+
+GET http://localhost:3000/api/buscar-previsao?cidade=Porto Alegre&data=2026-02-15
